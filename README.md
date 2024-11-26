@@ -1,27 +1,15 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+# Olá, eu sou Aline! 👋
 
-<p align="left"> 
-  Meu nome é Aline, tenho 21 anos e sou estudante de Ciência da Computação na CESAR School
-  
-</p>
+Sou apaixonado por **desenvolvimento de software** e adoro explorar novas tecnologias.
 
-<p align="left">
-   💻 Linguagens que estou aprendendo: Python e JavaScript
-</p>
+## 🌟 Habilidades
+- Linguagens: Python, JavaScript, C++
+- Ferramentas: Docker, Git, AWS
 
-<p align="left">
-  💼 Ferramentas: VSCode
-</p>
+## 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
+- Email: seuemail@exemplo.com
 
-<p align="left">
-  💌 Para entrar em contato: ⤵️
-</p>
+![Visitas no perfil](https://komarev.com/ghpvc/?username=seu-usuario&color=blue)
 
-<p align="left">
-  <a href="mailto:aline.mtakakura@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:aline.mtakakura@gmail.com" alt="Gmail"/></a>
-  <a href="www.linkedin.com/in/aline-takakura-3539a6338" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/aline-takakura-3539a6338" alt="LinkedIn"/></a>
-</p>
- 
  

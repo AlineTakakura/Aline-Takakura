@@ -1,6 +1,6 @@
 # Olá, eu sou Aline! 👋
 
-Sou apaixonado por **desenvolvimento de software** e adoro explorar novas tecnologias.
+Tenho 21 anos e sou estudante de **Ciência da computação** na CESAR School
 
 ## 🌟 Habilidades
 - Linguagens: Python

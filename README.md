@@ -10,7 +10,7 @@ Principais áreas de interesse: Desenvolvimento de Software e Cibersegurança
 
 ## 📫 Contato
 - [LinkedIn](www.linkedin.com/in/aline-takakura)
-- aline.mtakakura@gmail.com
+- [Gmail](aline.mtakakura@gmail.com)
 
 
 

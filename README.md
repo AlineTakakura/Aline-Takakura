@@ -3,13 +3,13 @@
 Sou apaixonado por **desenvolvimento de software** e adoro explorar novas tecnologias.
 
 ## 🌟 Habilidades
-- Linguagens: Python, JavaScript, C++
-- Ferramentas: Docker, Git, AWS
+- Linguagens: Python
+- Ferramentas: VSCode
 
 ## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
-- Email: seuemail@exemplo.com
+- [LinkedIn](www.linkedin.com/in/aline-takakura)
+- Email: aline.mtakakura@gmail.com
 
-![Visitas no perfil](https://komarev.com/ghpvc/?username=seu-usuario&color=blue)
+
 
  
